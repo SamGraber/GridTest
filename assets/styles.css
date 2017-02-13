@@ -1,0 +1,14 @@
+body {
+	background-color: #aaaaaa;
+}
+
+.square {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+}
+
+.square:hover {
+	cursor: pointer;
+	border: 1px solid cadetblue;
+}
